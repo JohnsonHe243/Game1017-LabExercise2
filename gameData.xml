@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <killCount>17</killCount>
+  <TurretPositions>
+    <Position>
+      <x>-4.58762932</x>
+      <y>-2.350515</y>
+      <z>0</z>
+    </Position>
+    <Position>
+      <x>3.14433026</x>
+      <y>-2.376289</y>
+      <z>0</z>
+    </Position>
+    <Position>
+      <x>-3.45360875</x>
+      <y>-1.93814421</y>
+      <z>0</z>
+    </Position>
+    <Position>
+      <x>-0.670103</x>
+      <y>-1.39690721</y>
+      <z>0</z>
+    </Position>
+    <Position>
+      <x>-4.613403</x>
+      <y>-1.24226737</y>
+      <z>0</z>
+    </Position>
+    <Position>
+      <x>2.216495</x>
+      <y>-1.39690721</y>
+      <z>0</z>
+    </Position>
+  </TurretPositions>
+</GameData>
